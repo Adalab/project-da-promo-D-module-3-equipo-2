@@ -7,6 +7,21 @@ En este repositorio van a encontrar el tercer proyecto  del equipo 2 formado por
     • Laura Madrid(LawMad)
     • Anna Pérez (AnnaPGDK)
     • Jacqueline Morales (Jacque39)
+    
+Proyecto
+
+Descripción:
+
+La empresa GoGreen Bikesharing, se dedica al alquiler de bicicletas y posee datos tales como la cantidad de bicis alquiladas por usuarios registrados, la cantidad de alquileres realizados por usuarios puntuales, y la cantidad total. A estos datos se les añadió información meteorológica, y el calendario de festivos.
+Ahora buscan analizar cuáles son los aspectos que más influyen en la cantidad de bicis que van a alquilar en un día.
+
+Objetivo:
+
+Crear modelos predictivos que puedan predecir el comportamiento de los usuários en distintas situaciones climáticas y temporales.
+
+Resultados:
+
+Creación de dos modelos predictivos que explican el comportamentos de los usuarios registrados y casuales ante a  distintas situaciones climáticas y temporales.
       
 Librerías utilizadas:
 
